@@ -2,7 +2,7 @@
   "name": "catsylum",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stefbodhi.github.io/flexcatz",
+  "homepage": "https://stefbodhi.github.io/catsylum",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
