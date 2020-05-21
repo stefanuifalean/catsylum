@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/flexcatz/static/css/main.d56076e3.chunk.css",
-    "main.js": "/flexcatz/static/js/main.c176a06e.chunk.js",
-    "main.js.map": "/flexcatz/static/js/main.c176a06e.chunk.js.map",
-    "runtime-main.js": "/flexcatz/static/js/runtime-main.39be1c1a.js",
-    "runtime-main.js.map": "/flexcatz/static/js/runtime-main.39be1c1a.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/flexcatz/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.12802a97.chunk.js": "/flexcatz/static/js/2.12802a97.chunk.js",
-    "static/js/2.12802a97.chunk.js.map": "/flexcatz/static/js/2.12802a97.chunk.js.map",
-    "index.html": "/flexcatz/index.html",
-    "precache-manifest.9b0c593f56d49eca6d7d401ecea4c4a4.js": "/flexcatz/precache-manifest.9b0c593f56d49eca6d7d401ecea4c4a4.js",
-    "service-worker.js": "/flexcatz/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/flexcatz/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.d56076e3.chunk.css.map": "/flexcatz/static/css/main.d56076e3.chunk.css.map",
-    "static/js/2.12802a97.chunk.js.LICENSE.txt": "/flexcatz/static/js/2.12802a97.chunk.js.LICENSE.txt"
+    "main.css": "/catsylum/static/css/main.d56076e3.chunk.css",
+    "main.js": "/catsylum/static/js/main.e797cbad.chunk.js",
+    "main.js.map": "/catsylum/static/js/main.e797cbad.chunk.js.map",
+    "runtime-main.js": "/catsylum/static/js/runtime-main.5473f754.js",
+    "runtime-main.js.map": "/catsylum/static/js/runtime-main.5473f754.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/catsylum/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.12802a97.chunk.js": "/catsylum/static/js/2.12802a97.chunk.js",
+    "static/js/2.12802a97.chunk.js.map": "/catsylum/static/js/2.12802a97.chunk.js.map",
+    "index.html": "/catsylum/index.html",
+    "precache-manifest.5ca8cbc94ebc8560bbe0a95686fea66d.js": "/catsylum/precache-manifest.5ca8cbc94ebc8560bbe0a95686fea66d.js",
+    "service-worker.js": "/catsylum/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/catsylum/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d56076e3.chunk.css.map": "/catsylum/static/css/main.d56076e3.chunk.css.map",
+    "static/js/2.12802a97.chunk.js.LICENSE.txt": "/catsylum/static/js/2.12802a97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.39be1c1a.js",
+    "static/js/runtime-main.5473f754.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.12802a97.chunk.js",
     "static/css/main.d56076e3.chunk.css",
-    "static/js/main.c176a06e.chunk.js"
+    "static/js/main.e797cbad.chunk.js"
   ]
 }
